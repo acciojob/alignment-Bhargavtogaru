@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+/* Center-align heading */
+.heading {
+    text-align: center;
+}
+
+/* General table styling */
+table {
+    border: 1px solid black;
+    border-spacing: 1px;
+    padding: 1px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+/* Middle row of Table 1 */
+.center {
+    text-align: center;
+}
+
+/* Rightmost column of Table 1 */
+.right {
+    text-align: right;
+}
+
+/* Background colors */
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
